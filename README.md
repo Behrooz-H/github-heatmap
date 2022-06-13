@@ -1,5 +1,5 @@
 # GitHub Heatmap
-This projects creates a new Git repository with commits from the past and pushes it to your GitHub. This will make your commit heatmap shine.
+This projects creates a new Git repository with commits from the past time and pushes it to your GitHub Repo. This will make your commit heatmap shine.
 
 <p align="center">
   <img  src="./images/heatmap-filled.png">
